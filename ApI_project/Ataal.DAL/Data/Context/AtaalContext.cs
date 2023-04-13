@@ -1,4 +1,5 @@
-﻿using Ataal.DAL.Data.Models;
+﻿using Ataal.DAL.Data.Identity;
+using Ataal.DAL.Data.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -12,18 +13,13 @@ using Section = Ataal.DAL.Data.Models.Section;
 
 namespace Ataal.DAL.Data.Context
 {
-    public class AtaalContext : DbContext
+    public class AtaalContext : IdentityDbContext<AppUser>
     {
         public AtaalContext(DbContextOptions<AtaalContext> options) : base(options)
         {
 
         }
 
-
-        // IdentityDbContext<User>
-        // create this class and complate the identity 
-        // User is the main class which inherte from  useridentity ,
-        // and it should in relation  with admin and customer and technical 
 
         public DbSet<KeyWords> KeyWords => Set<KeyWords>();
         public DbSet<Problem> Problems => Set<Problem>();
