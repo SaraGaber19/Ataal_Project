@@ -4840,19 +4840,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\basan\\.nuget\\packages\\": {}
+    "C:\\Users\\TECHNICAL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\ITI\\API\\Project\\Ataal_Project\\ApI_project\\ApI_project\\Ataal.csproj",
+      "projectUniqueName": "D:\\New folder\\ITI\\ApI (Gmal)\\Baasant_New\\Ataal_Project\\ApI_project\\ApI_project\\Ataal.csproj",
       "projectName": "Ataal",
-      "projectPath": "G:\\ITI\\API\\Project\\Ataal_Project\\ApI_project\\ApI_project\\Ataal.csproj",
-      "packagesPath": "C:\\Users\\basan\\.nuget\\packages\\",
-      "outputPath": "G:\\ITI\\API\\Project\\Ataal_Project\\ApI_project\\ApI_project\\obj\\",
+      "projectPath": "D:\\New folder\\ITI\\ApI (Gmal)\\Baasant_New\\Ataal_Project\\ApI_project\\ApI_project\\Ataal.csproj",
+      "packagesPath": "C:\\Users\\TECHNICAL\\.nuget\\packages\\",
+      "outputPath": "D:\\New folder\\ITI\\ApI (Gmal)\\Baasant_New\\Ataal_Project\\ApI_project\\ApI_project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\basan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TECHNICAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4866,8 +4866,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "G:\\ITI\\API\\Project\\Ataal_Project\\ApI_project\\Ataal.BL\\Ataal.BL.csproj": {
-              "projectPath": "G:\\ITI\\API\\Project\\Ataal_Project\\ApI_project\\Ataal.BL\\Ataal.BL.csproj"
+            "D:\\New folder\\ITI\\ApI (Gmal)\\Baasant_New\\Ataal_Project\\ApI_project\\Ataal.BL\\Ataal.BL.csproj": {
+              "projectPath": "D:\\New folder\\ITI\\ApI (Gmal)\\Baasant_New\\Ataal_Project\\ApI_project\\Ataal.BL\\Ataal.BL.csproj"
             }
           }
         }
