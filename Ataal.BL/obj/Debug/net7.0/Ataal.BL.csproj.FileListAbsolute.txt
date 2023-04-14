@@ -1,0 +1,30 @@
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\bin\Debug\net7.0\Ataal.BL.deps.json
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\bin\Debug\net7.0\Ataal.BL.dll
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\bin\Debug\net7.0\Ataal.BL.pdb
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\bin\Debug\net7.0\Ataal.DAL.dll
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\bin\Debug\net7.0\Ataal.DAL.pdb
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.csproj.AssemblyReference.cache
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.AssemblyInfoInputs.cache
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.AssemblyInfo.cs
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.csproj.CoreCompileInputs.cache
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.csproj.CopyComplete
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.dll
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\obj\Debug\net7.0\refint\Ataal.BL.dll
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.pdb
+D:\New folder\ITI\Final\ApI_project\Ataal.BL\obj\Debug\net7.0\ref\Ataal.BL.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\bin\Debug\net7.0\Ataal.BL.deps.json
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\bin\Debug\net7.0\Ataal.BL.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\bin\Debug\net7.0\Ataal.BL.pdb
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\bin\Debug\net7.0\Ataal.DAL.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\bin\Debug\net7.0\Ataal.DAL.pdb
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.csproj.AssemblyReference.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.AssemblyInfoInputs.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.AssemblyInfo.cs
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.csproj.CoreCompileInputs.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.csproj.CopyComplete
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\obj\Debug\net7.0\refint\Ataal.BL.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\obj\Debug\net7.0\Ataal.BL.pdb
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.BL\obj\Debug\net7.0\ref\Ataal.BL.dll

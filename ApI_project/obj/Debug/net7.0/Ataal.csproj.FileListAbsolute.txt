@@ -1,0 +1,173 @@
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\appsettings.Development.json
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\appsettings.json
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.exe
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.deps.json
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.runtimeconfig.json
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.pdb
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Azure.Core.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Azure.Identity.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Humanizer.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\System.CodeDom.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\System.Memory.Data.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.BL.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.DAL.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.BL.pdb
+D:\New folder\ITI\Final\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.DAL.pdb
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.csproj.AssemblyReference.cache
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.AssemblyInfoInputs.cache
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.AssemblyInfo.cs
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.csproj.CoreCompileInputs.cache
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets\msbuild.Ataal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets\msbuild.build.Ataal.props
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ataal.props
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ataal.props
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets.build.json
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets.development.json
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\scopedcss\bundle\Ataal.styles.css
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.csproj.CopyComplete
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\refint\Ataal.dll
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.pdb
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.genruntimeconfig.cache
+D:\New folder\ITI\Final\ApI_project\ApI_project\obj\Debug\net7.0\ref\Ataal.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.exe
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\appsettings.Development.json
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\appsettings.json
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Azure.Core.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Azure.Identity.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Humanizer.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\System.CodeDom.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\System.Memory.Data.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.BL.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.DAL.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.BL.pdb
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.DAL.pdb
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.csproj.AssemblyReference.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.AssemblyInfoInputs.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.AssemblyInfo.cs
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.csproj.CoreCompileInputs.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.MvcApplicationPartsAssemblyInfo.cs
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.MvcApplicationPartsAssemblyInfo.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets\msbuild.Ataal.Microsoft.AspNetCore.StaticWebAssets.props
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets\msbuild.build.Ataal.props
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ataal.props
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ataal.props
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets.pack.json
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets.build.json
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\staticwebassets.development.json
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\scopedcss\bundle\Ataal.styles.css
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.csproj.CopyComplete
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\refint\Ataal.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.pdb
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.deps.json
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.runtimeconfig.json
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\bin\Debug\net7.0\Ataal.pdb
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\Ataal.genruntimeconfig.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\ApI_project\obj\Debug\net7.0\ref\Ataal.dll

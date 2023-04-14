@@ -1,0 +1,28 @@
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\bin\Debug\net7.0\Ataal.DAL.deps.json
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\bin\Debug\net7.0\Ataal.DAL.runtimeconfig.json
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\bin\Debug\net7.0\Ataal.DAL.dll
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\bin\Debug\net7.0\Ataal.DAL.pdb
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.csproj.AssemblyReference.cache
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.AssemblyInfoInputs.cache
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.AssemblyInfo.cs
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.csproj.CoreCompileInputs.cache
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.dll
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\obj\Debug\net7.0\refint\Ataal.DAL.dll
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.pdb
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.genruntimeconfig.cache
+D:\New folder\ITI\Final\ApI_project\Ataal.DAL\obj\Debug\net7.0\ref\Ataal.DAL.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\bin\Debug\net7.0\Ataal.DAL.deps.json
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\bin\Debug\net7.0\Ataal.DAL.runtimeconfig.json
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\bin\Debug\net7.0\Ataal.DAL.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\bin\Debug\net7.0\Ataal.DAL.pdb
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.csproj.AssemblyReference.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.AssemblyInfoInputs.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.AssemblyInfo.cs
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.csproj.CoreCompileInputs.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\obj\Debug\net7.0\refint\Ataal.DAL.dll
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.pdb
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\obj\Debug\net7.0\Ataal.DAL.genruntimeconfig.cache
+G:\ITI\API\Project\Ataal_Project\ApI_project\Ataal.DAL\obj\Debug\net7.0\ref\Ataal.DAL.dll
